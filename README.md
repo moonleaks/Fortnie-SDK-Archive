@@ -4,31 +4,13 @@ SDKS Used for development purposes dumped by me!
 ----
 ## Chapter 1
 Season 1
-N/A
 Season 2
-N/A
 Season 3 
-N/A
 Season 4 
-N/A
 Season 5
-N/A
 Season 6
-N/A
 Season 7
 [7.40](https://github.com/moonleaks/Fortnie-SDK-Archive/raw/main/4.22.0-5046157+++Fortnite+Release-7.40-FortniteGame.zip)
 Season 8
-N/A
 Season 9
-N/A
 Season X
-N/A
-## Chapter 2
-Season 1
-N/A
-Season 2
-N/A
-Season 3 
-N/A
-Season 4 
-N/A
