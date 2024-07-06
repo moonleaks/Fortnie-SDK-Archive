@@ -1,6 +1,9 @@
 # Fortnie-SDK-Archive
 SDKS Used for development purposes dumped by me!
-## If you'd like a specific version, dm me on discord moonffs or open a issue
+If you'd like a specific version, dm me on discord moonffs or open a issue
+## Resources
+[AES Keys](https://github.com/dippyshere/fortnite-aes-archive)
+[FN Builds](https://github.com/itztiva/Fortnitebuilds)
 ----
 ## Chapter 1
 Season 1
