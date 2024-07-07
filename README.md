@@ -50,6 +50,9 @@ Season 1
 
 Season 2
 
+[12.41](https://github.com/moonleaks/Fortnie-SDK-Archive/raw/main/4.25.0-12905909+++Fortnite+Release-12.41-FortniteGame.zip)
+
+[12.61](https://github.com/moonleaks/Fortnie-SDK-Archive/raw/main/4.25.0-13498980+++Fortnite+Release-12.61-FortniteGame.zip)
 
 Season 3
 
